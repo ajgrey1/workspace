@@ -1,0 +1,11 @@
+package nature;
+
+public class DogCreator extends Animal{
+
+	public static void main(String[] args) {
+
+		DogCreator d = new DogCreator();
+		d.sleep();
+	}
+	
+}

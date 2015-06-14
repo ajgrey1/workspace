@@ -1,0 +1,16 @@
+package nature;
+
+public class Animal {
+
+	public boolean isAPet = true;
+	public String owner = "Fred";
+	
+	public void sleep() {
+		System.out.println("Sleeping");
+	}
+	
+	public void eat() {
+		System.out.println("Eating");
+	}
+
+}

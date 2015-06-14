@@ -1,0 +1,22 @@
+
+public class Condition1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int num = 4;
+		
+		if (num>=3) {
+		
+			System.out.println("Hello world!");
+			
+		}
+		
+		else if (num==4) {
+			
+		System.out.println("Hello world!");
+		
+		}
+	}
+
+}
